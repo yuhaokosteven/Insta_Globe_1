@@ -1,1 +1,1 @@
-# Insta_Globe_1
+# InstaGlobe
